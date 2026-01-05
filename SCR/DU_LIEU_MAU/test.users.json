@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "675f10000000000000000102"
+  },
+  "ten_nguoi_dung": "Trần Thị Hoa",
+  "email": "thiHoa@gmail.com",
+  "mat_khau": "abcdef",
+  "so_dien_thoai": "0902002002",
+  "ngay_tao": {
+    "$date": "2024-02-10T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000103"
+  },
+  "ten_nguoi_dung": "Lê Hoàng Hiệp",
+  "email": "hoanghiep@gmail.com",
+  "mat_khau": "hoang123",
+  "so_dien_thoai": "0803003003",
+  "ngay_tao": {
+    "$date": "2024-03-12T14:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000104"
+  },
+  "ten_nguoi_dung": "Phạm Mỹ Dung",
+  "email": "mydung@gmail.com",
+  "mat_khau": "mdung123456",
+  "so_dien_thoai": "0804004004",
+  "ngay_tao": {
+    "$date": "2024-04-20T16:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000105"
+  },
+  "ten_nguoi_dung": "Đỗ Hải Nam",
+  "email": "hainam@gmail.com",
+  "mat_khau": "nam12345",
+  "so_dien_thoai": "0805005005",
+  "ngay_tao": {
+    "$date": "2024-05-05T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000101"
+  },
+  "ten_nguoi_dung": "Nguyễn Văn An",
+  "email": "vanan@gmail.com",
+  "mat_khau": "123456",
+  "so_dien_thoai": "0801001001",
+  "ngay_tao": {
+    "$date": "2024-01-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000106"
+  },
+  "ten_nguoi_dung": "Trần Thị Tiếp",
+  "email": "thiHoa@gmail.com",
+  "mat_khau": "abcdef",
+  "so_dien_thoai": "0802002002",
+  "ngay_tao": {
+    "$date": "2024-02-10T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000107"
+  },
+  "ten_nguoi_dung": "Nguyễn Văn An",
+  "email": "an.nguyen@gmail.com",
+  "mat_khau": "pass123",
+  "so_dien_thoai": "0811222333",
+  "ngay_tao": {
+    "$date": "2024-03-01T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000108"
+  },
+  "ten_nguoi_dung": "Lê Thị Thu",
+  "email": "le.thu@gmail.com",
+  "mat_khau": "123456",
+  "so_dien_thoai": "0888777666",
+  "ngay_tao": {
+    "$date": "2024-01-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000109"
+  },
+  "ten_nguoi_dung": "Phạm Minh Tuấn",
+  "email": "tuan.pham@gmail.com",
+  "mat_khau": "tuanabc",
+  "so_dien_thoai": "0833445566",
+  "ngay_tao": {
+    "$date": "2024-04-12T14:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000110"
+  },
+  "ten_nguoi_dung": "Đỗ Hải Yến",
+  "email": "yen.do@gmail.com",
+  "mat_khau": "yen123",
+  "so_dien_thoai": "0809333222",
+  "ngay_tao": {
+    "$date": "2024-05-05T09:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000111"
+  },
+  "ten_nguoi_dung": "Vũ Quốc Bảo",
+  "email": "quocbao@gmail.com",
+  "mat_khau": "baopass",
+  "so_dien_thoai": "0877555444",
+  "ngay_tao": {
+    "$date": "2024-02-28T11:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000112"
+  },
+  "ten_nguoi_dung": "Phan Thị Hồng",
+  "email": "hong.phan@gmail.com",
+  "mat_khau": "hong789",
+  "so_dien_thoai": "0844332211",
+  "ngay_tao": {
+    "$date": "2024-06-18T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000113"
+  },
+  "ten_nguoi_dung": "Lý Minh Khang",
+  "email": "khang.ly@gmail.com",
+  "mat_khau": "khang456",
+  "so_dien_thoai": "0866001122",
+  "ngay_tao": {
+    "$date": "2024-03-22T07:55:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000114"
+  },
+  "ten_nguoi_dung": "Bùi Thảo Nhi",
+  "email": "thaonhi@gmail.com",
+  "mat_khau": "nhiabc",
+  "so_dien_thoai": "0811555666",
+  "ngay_tao": {
+    "$date": "2024-07-10T12:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f10000000000000000115"
+  },
+  "ten_nguoi_dung": "Trịnh Hoàng Nam",
+  "email": "nam.trinh@gmail.com",
+  "mat_khau": "nam321",
+  "so_dien_thoai": "0808111222",
+  "ngay_tao": {
+    "$date": "2024-02-15T18:25:00.000Z"
+  }
+}]
