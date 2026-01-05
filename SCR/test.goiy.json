@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "675f50000000000000000103"
+  },
+  "san_pham": "iPad Gen 10",
+  "diem_goi_y": 0.88,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000104"
+    },
+    "ten": "Phạm Mỹ Dung"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f30000000000000000103"
+      },
+      "ten": "AirPods Pro",
+      "diem_goi_y": 0.79
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000104"
+  },
+  "san_pham": "Acer Aspire 7",
+  "diem_goi_y": 0.9,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000103"
+    },
+    "ten": "Lê Hoàng Hiệp"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f30000000000000000105"
+      },
+      "ten": "Apple Watch S8",
+      "diem_goi_y": 0.85
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000105"
+  },
+  "san_pham": "Samsung A55",
+  "diem_goi_y": 0.87,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000101"
+    },
+    "ten": "Nguyễn Văn An"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f30000000000000000104"
+      },
+      "ten": "AirPods Pro",
+      "diem_goi_y": 0.83,
+      "ten :": "AirPods Pro",
+      "id :": "675f30000000000000000104",
+      "ten ": "AirPods Pro"
+    },
+    {
+      "id": {
+        "$oid": "675f30000000000000000103"
+      },
+      "ten": "iPad Gen 10",
+      "diem_goi_y": 0.79,
+      "id 675f30000000000000000103 ten \"iPad Gen 10\" diem_goi_y 0.79": "",
+      " id 675f30000000000000000104 ten \"AirPods Pro\" diem_goi_y 0.83 ten : \"AirPods Pro\" id : \"675f30000000000000000104\" ten \"AirPods Pro\"  1 Object id 675f30000000000000000103 ten \"iPad Gen 10\" diem_goi_y 0.79 id 675f30000000000000000103 ten \"iPad Gen 10\" diem_goi_y 0.79 \"\"": ""
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000106"
+  },
+  "san_pham": "AirPods Pro",
+  "diem_goi_y": 0.85,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000105"
+    },
+    "ten": "Đỗ Hải Nam"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f30000000000000000105"
+      },
+      "ten": "Apple Watch S8",
+      "diem_goi_y": 0.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000107"
+  },
+  "san_pham": "Asus Zenfone 11 Ultra",
+  "diem_goi_y": 0.82,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000107"
+    },
+    "ten": "Nguyễn Văn An"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000107"
+      },
+      "ten": "Vivo V30",
+      "diem_goi_y": 0.78
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000108"
+  },
+  "san_pham": "Realme GT Neo 6",
+  "diem_goi_y": 0.79,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000106"
+    },
+    "ten": "Trần Thị Tiếp"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000108"
+      },
+      "ten": "Lenovo Legion 5",
+      "diem_goi_y": 0.74
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000109"
+  },
+  "san_pham": "Dell XPS 14 Plus",
+  "diem_goi_y": 0.91,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000108"
+    },
+    "ten": "Lê Thị Thu"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000109"
+      },
+      "ten": "HP Pavilion 15",
+      "diem_goi_y": 0.85
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000110"
+  },
+  "san_pham": "Acer Swift X 2024",
+  "diem_goi_y": 0.75,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000109"
+    },
+    "ten": "Phạm Minh Tuấn"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000111"
+      },
+      "ten": "Xiaomi Pad 6",
+      "diem_goi_y": 0.72
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000111"
+  },
+  "san_pham": "Honor Magic6 Lite",
+  "diem_goi_y": 0.88,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000110"
+    },
+    "ten": "Đỗ Hải Yến"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000110"
+      },
+      "ten": "Samsung Galaxy Tab S9",
+      "diem_goi_y": 0.83
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000112"
+  },
+  "san_pham": "Huawei MatePad 12 Pro",
+  "diem_goi_y": 0.8,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000111"
+    },
+    "ten": "Vũ Quốc Bảo"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000112"
+      },
+      "ten": "JBL Tune 720BT",
+      "diem_goi_y": 0.76
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000113"
+  },
+  "san_pham": "Sony WH-X5200",
+  "diem_goi_y": 0.77,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000112"
+    },
+    "ten": "Phạm Thị Hồng"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000113"
+      },
+      "ten": "Beats Studio Pro",
+      "diem_goi_y": 0.73
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000114"
+  },
+  "san_pham": "apple watch",
+  "diem_goi_y": 0.84,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000112"
+    },
+    "ten": "Phạm Thị Hồng "
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000114"
+      },
+      "ten": "Garmin Forerunner 265",
+      "diem_goi_y": 0.79
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000115"
+  },
+  "san_pham": "apple watch ultra",
+  "diem_goi_y": 0.83,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000113"
+    },
+    "ten": "Lý Minh Khang"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000115"
+      },
+      "ten": "Amazfit GTR 4",
+      "diem_goi_y": 0.78
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675f50000000000000000116"
+  },
+  "san_pham": "iphone 16 pro max",
+  "diem_goi_y": 0.74,
+  "nguoi_dung": {
+    "id": {
+      "$oid": "675f10000000000000000115"
+    },
+    "ten": "Trịnh Hoàng Nam"
+  },
+  "ds_goi_y": [
+    {
+      "id": {
+        "$oid": "675f20000000000000000106"
+      },
+      "ten": "Oppo Reno11",
+      "diem_goi_y": 0.71
+    }
+  ]
+}]
