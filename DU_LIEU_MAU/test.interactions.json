@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "675f40000000000000000101"
+  },
+  "nguoi_dung": "Nguyễn Văn An",
+  "loai_tuong_tac": "Thích",
+  "san_pham": "Samsung A55",
+  "thoi_gian": {
+    "$date": "2024-06-03T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000102"
+  },
+  "nguoi_dung": "Trần Thị Hoa",
+  "loai_tuong_tac": "Xem",
+  "san_pham": "Acer Aspire 7",
+  "thoi_gian": {
+    "$date": "2024-06-04T14:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000103"
+  },
+  "nguoi_dung": "Lê Hoàng Hiệp",
+  "loai_tuong_tac": "Mua",
+  "san_pham": "AirPods Pro",
+  "thoi_gian": {
+    "$date": "2024-06-05T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000104"
+  },
+  "nguoi_dung": "Phạm Mỹ Dung",
+  "loai_tuong_tac": "Xem",
+  "san_pham": "iPad Gen 10",
+  "thoi_gian": {
+    "$date": "2024-06-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000105"
+  },
+  "nguoi_dung": "Đỗ Hải Nam",
+  "loai_tuong_tac": "Thích",
+  "san_pham": "Apple Watch S8",
+  "thoi_gian": {
+    "$date": "2024-06-07T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000107"
+  },
+  "nguoi_dung": "Nguyễn Văn An",
+  "loai_tuong_tac": "Thích",
+  "san_pham": "Oppo Reno11",
+  "thoi_gian": {
+    "$date": "2024-06-10T08:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000106"
+  },
+  "nguoi_dung": "Trần Thị Tiếp",
+  "loai_tuong_tac": "Bình luận",
+  "san_pham": "Vivo V30",
+  "thoi_gian": {
+    "$date": "2024-06-12T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000108"
+  },
+  "nguoi_dung": "Lê Thị Thu",
+  "loai_tuong_tac": "Xem",
+  "san_pham": "Lenovo Legion 5",
+  "thoi_gian": {
+    "$date": "2024-05-25T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000109"
+  },
+  "nguoi_dung": "Phạm Minh Tuấn",
+  "loai_tuong_tac": "Thích",
+  "san_pham": "HP Pavilion 15",
+  "thoi_gian": {
+    "$date": "2024-07-02T11:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000110"
+  },
+  "nguoi_dung": "Đỗ Hải Yến",
+  "loai_tuong_tac": "Xem",
+  "san_pham": "Samsung Galaxy Tab S9",
+  "thoi_gian": {
+    "$date": "2024-06-01T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000111"
+  },
+  "nguoi_dung": "Vũ Quốc Bảo",
+  "loai_tuong_tac": "Thích",
+  "san_pham": "Xiaomi Pad 6",
+  "thoi_gian": {
+    "$date": "2024-04-20T09:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000112"
+  },
+  "nguoi_dung": "Phạm Thị Hồng",
+  "loai_tuong_tac": "Bình luận",
+  "san_pham": "JBL Tune 720BT",
+  "thoi_gian": {
+    "$date": "2024-05-12T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000114"
+  },
+  "nguoi_dung": "Bùi Thảo Nhi",
+  "loai_tuong_tac": "Thích",
+  "san_pham": "Beats Studio Pro",
+  "thoi_gian": {
+    "$date": "2024-07-05T19:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000115"
+  },
+  "nguoi_dung": "Trịnh Hoàng Nam",
+  "loai_tuong_tac": "Xem",
+  "san_pham": "Garmin Forerunner 265",
+  "thoi_gian": {
+    "$date": "2024-03-21T06:50:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f40000000000000000113"
+  },
+  "nguoi_dung": "Lý Minh Khang",
+  "loai_tuong_tac": "Bình luận",
+  "san_pham": "Amazfit GTR 4",
+  "thoi_gian": {
+    "$date": "2024-07-08T14:35:00.000Z"
+  }
+}]
