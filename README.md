@@ -24,4 +24,7 @@ Mô tả: Đề tài tập trung vào việc thiết kế và cài đặt cơ s�
 ## 🗂️ Cấu trúc thư mục 
 - SCR/: mã nguồn, tập tin dữ liệu mẫu thử của đồ án
 - thesis/: Tài liệu đồ án(Word, powerpoint)
-
+## Cài đặt và thử nghiệm
+- Cài đặt MongoDB
+- Cài dữ liệu mẫu thử
+- Thực hiện các câu truy vấn đơn giản
